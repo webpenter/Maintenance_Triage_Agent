@@ -14,7 +14,7 @@ Works automatically with **Houzez** (rental properties) and **Homey** (every lis
 
 https://github.com/user-attachments/assets/dcb84c8e-0a2c-40e2-b506-82d982f738d4
 
-The demo runs on a Homey site: a guest reports a leak from the listing page, and the request lands in wp-admin already marked **Emergency**, tagged **Plumbing**, with a drafted vendor message and nearby vendors.
+The demo runs on a Homey site: a guest reports an issue from the listing page, and the request lands in wp-admin with its urgency, trade, a drafted vendor message and a shortlist of nearby vendors.
 
 ## What it does
 
